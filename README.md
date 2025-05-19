@@ -1,6 +1,7 @@
 # Laporan Proyek Machine Learning - Ardana Aldhizuma Nugraha
 
 ## Project Overview
+![326698dc-ee84-4037-ab81-917eef3cd5c0 (Copy)](https://github.com/user-attachments/assets/e7c2cd3a-a075-48aa-bb0f-2c30dc2ec2d4)
 
 Parfum telah menjadi bagian penting dalam kehidupan manusia sejak ribuan tahun lalu, bukan hanya sebagai penyegar bau, tetapi juga sebagai bentuk ekspresi identitas pribadi. Di era modern, industri parfum telah berkembang pesat dengan ribuan produk yang tersedia di pasaran, menyulitkan konsumen untuk menemukan aroma yang sesuai dengan preferensi mereka. Menurut penelitian yang dilakukan oleh Grand View Research, pasar global parfum mencapai nilai USD 50,85 miliar pada tahun 2023 dan diproyeksikan tumbuh dengan CAGR sebesar 5,9% dari 2024 hingga 2030 [1].
 
